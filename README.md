@@ -2,7 +2,7 @@
 
 上海大学 · 材料基因组工程研究院 · 计算机科学与技术硕士在读
 
-ABB/B&R 工业自动化 AI 应用开发实习 · 一作论文发表于 [npj Computational Materials](https://www.nature.com/npjcompumats/)（Nature Portfolio · IF 11.9）
+ABB/B&R 工业自动化 · AI 应用开发实习
 
 [Homepage](https://ryosxu.github.io) · [Email](mailto:xushang@shu.edu.cn)
 
@@ -35,5 +35,7 @@ ABB/B&R 工业自动化 AI 应用开发实习 · 一作论文发表于 [npj Comp
 **Full-Stack:** Vue 3 · FastAPI · SQLite · Vite · Tailwind CSS
 
 **Infra:** Linux · Docker · Git · OPC UA · Caddy
+
+**AI Coding:** Claude Code · Cursor · Codex
 
 </details>
