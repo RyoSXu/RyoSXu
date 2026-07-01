@@ -47,12 +47,4 @@ npj Computational Materials (Nature Portfolio) · IF: 11.9 · JCR Q1 · 中科�
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RyoSXu&theme=nord&no-frame=true&no-bg=true&column=6&margin-w=10" /></a>
-</p>
-
----
-
 <sub>[ryosxu.github.io](https://ryosxu.github.io)</sub>
