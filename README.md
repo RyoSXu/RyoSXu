@@ -2,7 +2,7 @@
 
 上海大学 · 材料基因组工程研究院 · 计算机科学与技术硕士在读
 
-ABB/B&R 工业自动化 · AI 应用开发实习
+ABB/B&R 工业自动化 · AI 应用开发实习 (2026.05 - 至今)
 
 [Homepage](https://ryosxu.github.io) · [Email](mailto:xushang@shu.edu.cn)
 
@@ -23,6 +23,19 @@ ABB/B&R 工业自动化 · AI 应用开发实习
 - **MDoctor** — 工业振动分析软件，打通 PLC/FTP 数据链路，支持 8 类振动可视化与故障诊断
 - **[RyoMonitor](https://github.com/RyoSXu/RyoMonitor)** / **[RyoAuthGate](https://github.com/RyoSXu/RyoAuthGate)** — Go 编写的 VPS 监控 + Caddy forward-auth 统一认证
 - **[d2-ai-context](https://github.com/RyoSXu/d2-ai-context)** — Destiny 2 装备数据 → AI 可读本地上下文
+
+---
+
+### Open Source Contributions
+
+- **[glance](https://github.com/glanceapp/glance)** ([#1033](https://github.com/glanceapp/glance/pull/1033)) — fix: use last IP from `X-Forwarded-For` to prevent rate limit bypass
+- **[iib0011/omni-tools](https://github.com/iib0011/omni-tools)** ([#398](https://github.com/iib0011/omni-tools/pull/398)) — fix: replace `Math.random()` with `crypto.getRandomValues()` in password generator
+- **[hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)** ([#431](https://github.com/hmjz100/LinkSwift/pull/431)) — fix: add token null check for `alipan.com` domain compatibility
+- **[transmute-app/transmute](https://github.com/transmute-app/transmute)** ([#214](https://github.com/transmute-app/transmute/pull/214), [docs #13](https://github.com/transmute-app/transmute-app.github.io/pull/13)) — feat: add custom CSS support and styling documentation for PDF conversion
+- **[C4illin/ConvertX](https://github.com/C4illin/ConvertX)** ([#571](https://github.com/C4illin/ConvertX/pull/571)) — fix: add CJK font support for PDF conversion
+- **[imn1yy/DailyHotApi](https://github.com/imn1yy/DailyHotApi)** ([#141](https://github.com/imn1yy/DailyHotApi/pull/141)) — fix: switch Kuaishou route from HTML scraping to GraphQL API
+
+---
 
 <details>
 <summary>Tech Stack</summary>
