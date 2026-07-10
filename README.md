@@ -10,16 +10,16 @@ ABB/B&R 工业自动化 · AI 应用开发实习 (2026.05 - 至今)
 
 ### Research
 
-**Phonon Density of States Prediction from the Pre-trained Phonon Transformer**
+**Phonon Density of States Prediction from the Atomic Relative Position Encoding Attention Transformer**
 <br>npj Computational Materials · JCR Q1 · 中科院材料 1 区 TOP · [Code](https://github.com/RyoSXu/ARPAT)
 
-> 提出 PPhT 模型，融合径向基函数与球谐函数编码至 Transformer 注意力机制，在 24,000+ 数据、86 种元素上超越 SOTA，单样本推理 < 30ms。
+> 提出 ARPAT 模型，融合径向基函数与球谐函数编码至 Transformer 注意力机制，在 24,000+ 数据、86 种元素上超越 SOTA，单样本推理 < 30ms。
 
 ---
 
 ### Projects
 
-- **[ARPAT](https://github.com/RyoSXu/ARPAT)** — Pre-trained Phonon Transformer，端到端预测声子态密度
+- **[ARPAT](https://github.com/RyoSXu/ARPAT)** — Atomic Relative Position Encoding Attention Transformer，端到端预测声子态密度
 - **MDoctor** — 工业振动分析软件，打通 PLC/FTP 数据链路，支持 8 类振动可视化与故障诊断
 - **[RyoMonitor](https://github.com/RyoSXu/RyoMonitor)** / **[RyoAuthGate](https://github.com/RyoSXu/RyoAuthGate)** — Go 编写的 VPS 监控 + Caddy forward-auth 统一认证
 - **[d2-ai-context](https://github.com/RyoSXu/d2-ai-context)** — Destiny 2 装备数据 → AI 可读本地上下文
@@ -33,7 +33,7 @@ ABB/B&R 工业自动化 · AI 应用开发实习 (2026.05 - 至今)
 - **[hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)** ([#431](https://github.com/hmjz100/LinkSwift/pull/431)) — fix: add token null check for `alipan.com` domain compatibility
 - **[transmute-app/transmute](https://github.com/transmute-app/transmute)** ([#214](https://github.com/transmute-app/transmute/pull/214), [docs #13](https://github.com/transmute-app/transmute-app.github.io/pull/13)) — feat: add custom CSS support and styling documentation for PDF conversion
 - **[C4illin/ConvertX](https://github.com/C4illin/ConvertX)** ([#571](https://github.com/C4illin/ConvertX/pull/571)) — fix: add CJK font support for PDF conversion
-- **[imn1yy/DailyHotApi](https://github.com/imn1yy/DailyHotApi)** ([#141](https://github.com/imn1yy/DailyHotApi/pull/141)) — fix: switch Kuaishou route from HTML scraping to GraphQL API
+- **[imsyy/DailyHotApi](https://github.com/imsyy/DailyHotApi)** ([#141](https://github.com/imsyy/DailyHotApi/pull/141)) — fix: switch Kuaishou route from HTML scraping to GraphQL API
 
 ---
 
