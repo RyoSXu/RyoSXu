@@ -11,7 +11,7 @@ ABB/B&R 工业自动化 · AI 应用开发实习 (2026.05 - 至今)
 ### Research
 
 **Phonon Density of States Prediction from the Atomic Relative Position Encoding Attention Transformer**
-<br>npj Computational Materials · JCR Q1 · 中科院材料 1 区 TOP · [Code](https://github.com/RyoSXu/ARPAT)
+<br>npj Computational Materials · JCR Q1 · 中科院材料 1 区 TOP · [Code](https://github.com/RyoSXu/ARPAT) · [Paper](https://doi.org/10.1038/s41524-026-02199-3)
 
 > 提出 ARPAT 模型，融合径向基函数与球谐函数编码至 Transformer 注意力机制，在 24,000+ 数据、86 种元素上超越 SOTA，单样本推理 < 30ms。
 
