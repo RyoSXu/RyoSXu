@@ -28,6 +28,7 @@ ABB/B&R 工业自动化 · AI 应用开发实习 (2026.05 - 至今)
 
 ### Open Source Contributions
 
+- **[mm7894215/TokenTracker](https://github.com/mm7894215/TokenTracker)** ([#311](https://github.com/mm7894215/TokenTracker/pull/311)) — feat: add AnythingLLM Desktop usage tracking with cross-platform SQLite discovery and privacy-preserving incremental metrics ingestion
 - **[transmute-app/transmute](https://github.com/transmute-app/transmute)** ([#220](https://github.com/transmute-app/transmute/pull/220)) — feat: add API-backed pagination for files and jobs
 - **[glance](https://github.com/glanceapp/glance)** ([#1033](https://github.com/glanceapp/glance/pull/1033)) — fix: use last IP from `X-Forwarded-For` to prevent rate limit bypass
 - **[iib0011/omni-tools](https://github.com/iib0011/omni-tools)** ([#398](https://github.com/iib0011/omni-tools/pull/398)) — fix: replace `Math.random()` with `crypto.getRandomValues()` in password generator
